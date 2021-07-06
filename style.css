@@ -9,9 +9,10 @@ h1{
 }
 section{
     display: flex;
+    margin: 100px;
 }
 .half-width{
-    width: 80%;
+    width: 50%;
     padding: 2%;
 }
 .half-width img{
@@ -28,3 +29,11 @@ section{
 p{
     margin-bottom: 40px;
 }
+
+.section-two
+{
+    background-image: url(photo/b1.png);
+    background-repeat: no-repeat;
+    background-size:contain;
+}
+
